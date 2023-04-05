@@ -43,6 +43,9 @@ There are a few things I believe strongly - I am not open to debating someone el
 
 ## Topics on My Mind Recently
 
+- [[Secure Coding/Secure Coding in Go\|Secure Coding in Go]]
+- [[Secure Coding/Secure Coding\|Secure Coding]]
+- [[Application Security\|Application Security]]
 - [[Code of Conduct\|Code of Conduct]]
 
 
