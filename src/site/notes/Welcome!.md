@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-29T18:37:42.954-05:00","updated":"2023-04-05T17:51:00.357-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-29T18:37:42.954-05:00","updated":"2023-04-05T17:57:37.791-05:00"}
 ---
 
 
@@ -28,6 +28,8 @@ My main social media presence these days is on Mastodon. I don't post much but I
 - <a rel="me" href="https://wandering.shop/@andytinkham">@andytinkham@wandering.shop</a> (the social stuff)
 - <a rel="me" href="https://rls.social/@andytinkham">@andytinkham@rls.social</a> (very quiet - leadership stuff)
 - <a rel="me" href="https://social.oddly-influenced.dev/@Andy">@andy@social.oddly-influenced.dev</a> (very, very quiet)
+
+I'm on [Github](https://github.com/andytinkham) and [LinkedIn](https://linkedin.com/in/andytinkham).
 
 There are a few things I believe strongly - I am not open to debating someone else's right to exist, to choose how they present themselves to the world, to choose who they love, or viewing people as less than others. 
 
