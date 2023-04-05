@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-29T18:37:42.954-05:00","updated":"2023-03-30T19:18:38.735-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-29T18:37:42.954-05:00","updated":"2023-04-05T17:51:00.357-05:00"}
 ---
 
 
@@ -10,7 +10,7 @@ Hi! Welcome to my [[digital garden\|digital garden]]. My name is Andy Tinkham an
 ## About Me
 
 I'm a Gen X guy living in the suburbs of Minneapolis with my wife and our cat. I work as the Security Architect for [Cyberark](https://www.cyberark.com)'s [Conjur](https://www.conjur.org) product. Around this site, you'll probably (eventually) find ideas and thoughts across the following areas:
-- [[Application Security\|Application Security]]
+- [[Application Security/Application Security\|Application Security]]
 - [[Identity Management\|Identity Management]]
 - [[DevOps\|DevOps]] - things like [[Kubernetes\|Kubernetes]] and cloud services
 - [[PKM and Knowledge Management\|PKM and Knowledge Management]]
@@ -39,17 +39,17 @@ There are a few things I believe strongly - I am not open to debating someone el
 - Science is real
 - Immigrants make America great
 - Diversity is highly desirable, Inclusion is highly necessary
-- I stand for diability rights to enable everyone to be able to fully participate in society
+- I stand for disability rights to enable everyone to be able to fully participate in society
 
 ## Topics on My Mind Recently
 
-- [[OWASP Top 10/OWASP API Security Top Ten 2019\|OWASP API Security Top Ten 2019]]
-- [[Application Security\|Application Security]]
-- [[OWASP Top 10/OWASP Top 10\|OWASP Top 10]]
-- [[OWASP Top 10/OWASP Kubernetes Top 10 2022\|OWASP Kubernetes Top 10 2022]]
-- [[OWASP Top 10/OWASP Top 10 2021\|OWASP Top 10 2021]]
-- [[Secure Coding/Secure Coding\|Secure Coding]]
-- [[Secure Coding/Secure Coding in Go\|Secure Coding in Go]]
+- [[Application Security/OWASP Top 10/OWASP Top 10 Web Application Security Risks 2021\|OWASP Top 10 Web Application Security Risks 2021]]
+- [[Application Security/OWASP Top 10/OWASP Top 10\|OWASP Top 10]]
+- [[Application Security/OWASP Top 10/OWASP API Security Top Ten 2019\|OWASP API Security Top Ten 2019]]
+- [[Application Security/OWASP Top 10/OWASP Kubernetes Top 10 2022\|OWASP Kubernetes Top 10 2022]]
+- [[Application Security/Application Security\|Application Security]]
+- [[Application Security/Secure Coding/Secure Coding\|Secure Coding]]
+- [[Application Security/Secure Coding/Secure Coding in Go\|Secure Coding in Go]]
 - [[Code of Conduct\|Code of Conduct]]
 
 
