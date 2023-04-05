@@ -43,9 +43,13 @@ There are a few things I believe strongly - I am not open to debating someone el
 
 ## Topics on My Mind Recently
 
-- [[Secure Coding/Secure Coding in Go\|Secure Coding in Go]]
-- [[Secure Coding/Secure Coding\|Secure Coding]]
+- [[OWASP Top 10/OWASP API Security Top Ten 2019\|OWASP API Security Top Ten 2019]]
 - [[Application Security\|Application Security]]
+- [[OWASP Top 10/OWASP Top 10\|OWASP Top 10]]
+- [[OWASP Top 10/OWASP Kubernetes Top 10 2022\|OWASP Kubernetes Top 10 2022]]
+- [[OWASP Top 10/OWASP Top 10 2021\|OWASP Top 10 2021]]
+- [[Secure Coding/Secure Coding\|Secure Coding]]
+- [[Secure Coding/Secure Coding in Go\|Secure Coding in Go]]
 - [[Code of Conduct\|Code of Conduct]]
 
 
