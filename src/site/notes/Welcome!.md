@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-29T18:37:42.954-05:00","updated":"2023-04-12T18:08:23.088-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-29T18:37:42.954-05:00","updated":"2023-04-12T18:08:55.300-05:00"}
 ---
 
 
-# Welcome! Hi, Conjurers!
+# Welcome!
 
 Hi! Welcome to my [[digital garden\|digital garden]]. My name is Andy Tinkham and this is where I [[learn in public\|learn in public]].  
 
