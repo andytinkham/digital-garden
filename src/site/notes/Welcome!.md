@@ -45,6 +45,7 @@ There are a few things I believe strongly - I am not open to debating someone el
 
 ## Topics on My Mind Recently
 
+- [[Onyx Boox Nova Air C/Restore Application Icons\|Restore Application Icons]]
 - [[Application Security/Secure Coding/Secure Coding in Go\|Secure Coding in Go]]
 - [[Application Security/Secure Coding/Secure Coding in Ruby\|Secure Coding in Ruby]]
 - [[Application Security/Secure Coding/Secure Coding\|Secure Coding]]
