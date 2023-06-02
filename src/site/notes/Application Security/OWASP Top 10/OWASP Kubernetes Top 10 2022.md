@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/application-security/owasp-top-10/owasp-kubernetes-top-10-2022/","created":"2023-04-05T17:29:06.991-05:00","updated":"2023-04-05T17:49:00.766-05:00"}
+{"dg-publish":true,"permalink":"/application-security/owasp-top-10/owasp-kubernetes-top-10-2022/","created":"2023-04-05T17:29:06.991-05:00","updated":"2023-04-05T18:00:14.168-05:00"}
 ---
 
 
