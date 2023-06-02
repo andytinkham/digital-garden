@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/application-security/owasp-top-10/owasp-api-security-top-ten-2019/","created":"2023-04-05T17:37:52.729-05:00","updated":"2023-04-05T17:49:00.779-05:00"}
+{"dg-publish":true,"permalink":"/application-security/owasp-top-10/owasp-api-security-top-ten-2019/","created":"2023-04-05T17:37:52.729-05:00","updated":"2023-04-05T18:00:13.961-05:00"}
 ---
 
 
