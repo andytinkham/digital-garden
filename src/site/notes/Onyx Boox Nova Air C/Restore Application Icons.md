@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/onyx-boox-nova-air-c/restore-application-icons/","created":"2023-04-27T22:09:14.468-05:00","updated":"2023-04-28T10:12:32.113-05:00"}
+{"dg-publish":true,"permalink":"/onyx-boox-nova-air-c/restore-application-icons/","created":"2023-04-27T22:09:14.468-05:00","updated":"2023-04-27T22:30:22.951-05:00"}
 ---
 
 
