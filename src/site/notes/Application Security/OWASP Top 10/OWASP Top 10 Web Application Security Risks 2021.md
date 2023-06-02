@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/application-security/owasp-top-10/owasp-top-10-web-application-security-risks-2021/","created":"2023-04-05T17:04:48.784-05:00","updated":"2023-04-05T17:49:15.344-05:00"}
+{"dg-publish":true,"permalink":"/application-security/owasp-top-10/owasp-top-10-web-application-security-risks-2021/","created":"2023-04-05T17:04:48.784-05:00","updated":"2023-04-05T18:00:14.339-05:00"}
 ---
 
 
