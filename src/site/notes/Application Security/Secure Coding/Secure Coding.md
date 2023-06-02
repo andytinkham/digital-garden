@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/application-security/secure-coding/secure-coding/","created":"2023-04-05T16:54:06.653-05:00","updated":"2023-04-05T17:54:29.824-05:00"}
+{"dg-publish":true,"permalink":"/application-security/secure-coding/secure-coding/","created":"2023-04-05T16:54:06.653-05:00","updated":"2023-04-05T18:00:15.132-05:00"}
 ---
 
 
