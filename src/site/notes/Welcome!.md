@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-29T18:37:42.954-05:00","updated":"2023-06-02T17:20:38.478-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-29T18:37:42.954-05:00","updated":"2023-06-02T17:21:50.890-05:00"}
 ---
 
 
 # Welcome!
 
 Hi! Welcome to my [[digital garden\|digital garden]]. My name is Andy Tinkham and this is where I [[learn in public\|learn in public]].  
-
-Testing...
 
 ## About Me
 
