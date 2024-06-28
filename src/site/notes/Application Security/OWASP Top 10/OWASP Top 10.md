@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/application-security/owasp-top-10/owasp-top-10/","created":"2023-04-05T17:43:21.224-05:00","updated":"2023-04-05T18:00:13.775-05:00"}
+{"dg-publish":true,"permalink":"/application-security/owasp-top-10/owasp-top-10/","created":"2023-04-05T17:43:21.224-05:00","updated":"2023-04-05T17:49:01.245-05:00"}
 ---
 
 

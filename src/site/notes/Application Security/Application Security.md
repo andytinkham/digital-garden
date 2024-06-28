@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/application-security/application-security/","created":"2023-04-05T16:46:23.386-05:00","updated":"2023-04-05T18:00:13.484-05:00"}
+{"dg-publish":true,"permalink":"/application-security/application-security/","created":"2023-04-05T16:46:23.386-05:00","updated":"2023-04-05T17:46:30.770-05:00"}
 ---
 
 

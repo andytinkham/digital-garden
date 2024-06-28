@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/application-security/secure-coding/secure-coding-in-ruby/","created":"2023-04-05T17:54:18.705-05:00","updated":"2023-04-05T18:00:16.448-05:00"}
+{"dg-publish":true,"permalink":"/application-security/secure-coding/secure-coding-in-ruby/","created":"2023-04-05T17:54:18.705-05:00","updated":"2023-04-05T17:56:18.197-05:00"}
 ---
 
 

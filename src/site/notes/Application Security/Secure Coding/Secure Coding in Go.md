@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/application-security/secure-coding/secure-coding-in-go/","created":"2023-04-05T16:58:03.010-05:00","updated":"2023-04-05T18:00:16.629-05:00"}
+{"dg-publish":true,"permalink":"/application-security/secure-coding/secure-coding-in-go/","created":"2023-04-05T16:58:03.010-05:00","updated":"2023-04-05T17:56:23.705-05:00"}
 ---
 
 
